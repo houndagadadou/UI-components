@@ -1,0 +1,157 @@
+
+
+.attribution {
+    font-size: 12px;
+    font-weight: normal;
+    font-family: 'Kumbh Sans' , sans-serif;
+    
+    text-align: center;
+   margin-top: -820px;
+    
+}
+
+
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+
+
+body {
+    background-color: #19A1AD;
+}
+
+.firstb {
+    position: absolute;
+    right: 550px;
+    margin-top: 100px;
+
+
+}
+
+.secondb {
+ 
+  position: absolute;
+  bottom: -650px;
+  right: -300px;
+  
+}
+
+.cardb {
+    position: relative;
+    top: 0;
+    left: 0;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-bottom: 0px;
+
+}
+
+.pic {
+    position: absolute;
+    top: 100px;
+    left: 127px;
+    border-radius: 80px;
+    border: solid 7px #FFFFFF;
+
+
+}
+
+.namesection {
+    background-color: #FFFFFF;
+
+    width: 349.97px;
+    height: 150px;
+    margin-top: -5px;
+
+}
+
+.socialsection {
+    background-color: #FFFFFF;
+    border-top: solid 1px #97979754;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width: 349.97px;
+    height: 90px;
+    margin-top: 0px;
+    box-shadow: 0px 15px 40px -20px rgba(0, 0, 0, 0.527);
+
+}
+
+.flexc {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color:hsl(229, 23%, 23%) ;
+
+}
+
+.namesection p {
+    padding: 85px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.age {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+    padding-left: 10px;
+    font-size: 18px;
+    color: rgba(31, 31, 31, 0.568);
+}
+
+.city {
+    font-family: 'Kumbh Sans', sans-serif;
+    margin: -165px !important;
+    font-size: 15px !important;
+    color: rgba(31, 31, 31, 0.568);
+    font-weight: lighter !important;
+
+
+}
+
+.stats {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color:hsl(229, 23%, 23%) ;
+
+}
+
+.stats p {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+
+
+}
+
+.names {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: -25px;
+    margin-left: -15px;
+
+
+}
+
+.names p {
+    font-family: 'Kumbh Sans', sans-serif;
+    color: rgba(31, 31, 31, 0.568);
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
